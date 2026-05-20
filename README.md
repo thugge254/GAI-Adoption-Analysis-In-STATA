@@ -170,6 +170,7 @@ CFA will validate:
 - Indicator reliability
   
 ### Model Fit Criteria
+
 | Indicator | Threshold |
 | --------- | --------- |
 | χ²/df     | < 3       |
@@ -177,3 +178,32 @@ CFA will validate:
 | CFI       | > 0.90    |
 | TLI       | > 0.90    |
 | SRMR      | < 0.08    |
+
+## Technologies Used
+
+### DRata Analysis Tool
+
+**STATA**
+
+## Screenshots
+### CFA-Model
+
+
+### Recommended Software
+
+- STATA
+- R
+- SmartPLS
+
+### Author
+
+Moses Chege
+
+**Data Analyst | AI & Analytics Enthusiast | SQL • Python • R • Excel | Turning Data into Actionable Insights**
+
+
+### License
+
+This project is intended for academic and research purposes.
+
+You may adapt, reproduce, and extend the framework with proper attribution.
