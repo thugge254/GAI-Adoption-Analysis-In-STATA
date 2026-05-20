@@ -186,7 +186,11 @@ CFA will validate:
 **STATA**
 
 ## Screenshots
-### CFA-Model
+### CFA MODEL
+![Overview Page](CFA_MODEL.png)
+
+### SEM MODEL
+![Overview Page](SEM_MODEL.png)
 
 
 ### Recommended Software
